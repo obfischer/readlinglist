@@ -1,2 +1,0 @@
-# readlinglist
-Private Blog-Leseliste
