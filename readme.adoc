@@ -1,2 +1,9 @@
 = Lesestoff zum Tee um drei
 
+== Firmenblogs
+
+* https://www.adesso.de/de/news/blog/index.jsp[adesso Blog^]
+
+== Einzelne Personen
+
+* https://bsideup.github.io[Sergei Egorov^]
