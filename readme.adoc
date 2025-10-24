@@ -6,4 +6,5 @@
 
 == Einzelne Personen
 
+* https://some-natalie.dev[Some Natalies' Corner of the internet^]
 * https://bsideup.github.io[Sergei Egorov^]
