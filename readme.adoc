@@ -3,8 +3,12 @@
 == Firmenblogs
 
 * https://www.adesso.de/de/news/blog/index.jsp[adesso Blog^]
+* https://www.codecentric.de/wissens-hub/blog[Codecentric Blog^]
 
 == Einzelne Personen
 
 * https://some-natalie.dev[Some Natalies' Corner of the internet^]
 * https://bsideup.github.io[Sergei Egorov^]
+* https://peter.eisentraut.org/[Peter Eisenkraut^]
+* https://zenzes.me/[Daniel Zenzes^]
+* https://jack-vanlightly.com[Jack Vanlightly^]
