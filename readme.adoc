@@ -4,6 +4,7 @@
 
 * https://www.adesso.de/de/news/blog/index.jsp[adesso Blog^]
 * https://www.codecentric.de/wissens-hub/blog[Codecentric Blog^]
+* https://senacor.blog/[Senacor Blog^]
 
 == Einzelne Personen
 
