@@ -11,5 +11,6 @@
 * https://some-natalie.dev[Some Natalies' Corner of the internet^]
 * https://bsideup.github.io[Sergei Egorov^]
 * https://peter.eisentraut.org/[Peter Eisenkraut^]
+* https://www.robert-glaser.de[Robert Glaser^]
 * https://zenzes.me/[Daniel Zenzes^]
 * https://jack-vanlightly.com[Jack Vanlightly^]
