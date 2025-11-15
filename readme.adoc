@@ -3,6 +3,7 @@
 == Firmenblogs
 
 * https://www.adesso.de/de/news/blog/index.jsp[adesso Blog^]
+* https://www.anthropic.com/news[Anthropic - News^]
 * https://www.codecentric.de/wissens-hub/blog[Codecentric Blog^]
 * https://senacor.blog/[Senacor Blog^]
 
