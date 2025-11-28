@@ -5,6 +5,7 @@
 * https://www.adesso.de/de/news/blog/index.jsp[adesso Blog^]
 * https://www.anthropic.com/news[Anthropic - News^]
 * https://www.codecentric.de/wissens-hub/blog[Codecentric Blog^]
+* https://www.crunchydata.com/blog[Crunchy Data / PostgreSQL^]
 * https://senacor.blog/[Senacor Blog^]
 
 == Einzelne Personen
