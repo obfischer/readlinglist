@@ -8,6 +8,7 @@
 * https://www.crunchydata.com/blog[Crunchy Data / PostgreSQL^]
 * https://www.innoq.com/de/written/[INNOQ Blog^]
 * https://senacor.blog/[Senacor Blog^]
+* https://spring.io/blog[Spring Blog^]
 
 == Einzelne Personen
 
