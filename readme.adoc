@@ -16,5 +16,6 @@
 * https://bsideup.github.io[Sergei Egorov^]
 * https://peter.eisentraut.org/[Peter Eisenkraut^]
 * https://www.robert-glaser.de[Robert Glaser^]
+* https://www.morling.dev/[Gunnar Morling^]
 * https://zenzes.me/[Daniel Zenzes^]
 * https://jack-vanlightly.com[Jack Vanlightly^]
