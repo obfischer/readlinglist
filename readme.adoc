@@ -19,3 +19,4 @@
 * https://www.morling.dev/[Gunnar Morling^]
 * https://zenzes.me/[Daniel Zenzes^]
 * https://jack-vanlightly.com[Jack Vanlightly^]
+* https://hakibenita.com/[Haki Benita^]
