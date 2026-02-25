@@ -3,20 +3,15 @@
 == Firmenblogs
 
 * https://www.adesso.de/de/news/blog/index.jsp[adesso Blog^]
-* https://www.anthropic.com/news[Anthropic - News^]
 * https://www.codecentric.de/wissens-hub/blog[Codecentric Blog^]
-* https://www.crunchydata.com/blog[Crunchy Data / PostgreSQL^]
-* https://www.innoq.com/de/written/[INNOQ Blog^]
 * https://senacor.blog/[Senacor Blog^]
-* https://spring.io/blog[Spring Blog^]
+* https://engineering.zalando.com[Zalando Engineering Blog^]
 
 == Einzelne Personen
 
 * https://some-natalie.dev[Some Natalies' Corner of the internet^]
 * https://bsideup.github.io[Sergei Egorov^]
 * https://peter.eisentraut.org/[Peter Eisenkraut^]
-* https://www.robert-glaser.de[Robert Glaser^]
-* https://www.morling.dev/[Gunnar Morling^]
 * https://zenzes.me/[Daniel Zenzes^]
 * https://jack-vanlightly.com[Jack Vanlightly^]
-* https://hakibenita.com/[Haki Benita^]
+* https://hakibenita.com/[Haki Benita]
