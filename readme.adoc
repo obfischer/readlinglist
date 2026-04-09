@@ -6,6 +6,7 @@
 * https://www.codecentric.de/wissens-hub/blog[Codecentric Blog^]
 * https://senacor.blog/[Senacor Blog^]
 * https://engineering.zalando.com[Zalando Engineering Blog^]
+* https://madecurious.com[Made Curios]
 
 == Einzelne Personen
 
