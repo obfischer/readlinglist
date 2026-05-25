@@ -10,6 +10,7 @@
 
 == Einzelne Personen
 
+* https://www.michaelnygard.com/[Michael Nygard^]
 * https://www.ufried.com[Uwe Friedrichsen^]
 * https://some-natalie.dev[Some Natalies' Corner of the internet^]
 * https://bsideup.github.io[Sergei Egorov^]
