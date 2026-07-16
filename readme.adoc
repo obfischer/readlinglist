@@ -5,6 +5,7 @@
 * https://www.adesso.de/de/news/blog/index.jsp[adesso Blog^]
 * https://www.codecentric.de/wissens-hub/blog[Codecentric Blog^]
 * https://senacor.blog/[Senacor Blog^]
+* https://www.simplexacode.ch/en/blog/[Simplexacode^]
 * https://engineering.zalando.com[Zalando Engineering Blog^]
 * https://madecurious.com[Made Curios]
 
